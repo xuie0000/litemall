@@ -5,7 +5,8 @@
 * 笔记
   * [Mybatis Dynamic SQL~~真香~~使用](doc/db/mybatis-dsl.md)
   * [使用Kotlin替换lombok](doc/kotlin/love-kotlin.md)
-
+  * [`@Component`, `@Repository`, `@Service`的区别](doc/component-service.md)
+  * [使用Session和Cookie](doc/http/http_session_cookies.md)
 * 作者的文档
   * [更新日志](CHANGELOG.md)
   * [贡献指南](CONTRIBUTE.md)
