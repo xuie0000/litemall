@@ -3,6 +3,7 @@
 * [关于](about.md)
 * [介绍](README.md)
 * 笔记
+  * [Mybatis Dynamic SQL~~真香~~使用](doc/db/mybatis-dsl.md)
 
 
 * 作者的文档
@@ -16,4 +17,4 @@
   * [3. 小商场](doc/wxmall.md)
   * [4. 管理后台](doc/admin.md)
   * [5. 轻商城](doc/mobmall.md)
-  * [最佳管理后台开发实践](doc/how_to_implement_best_admin.md)
+  * [6. 最佳管理后台开发实践](doc/how_to_implement_best_admin.md)
