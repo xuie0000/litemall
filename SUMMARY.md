@@ -4,7 +4,7 @@
 * [介绍](README.md)
 * 笔记
   * [Mybatis Dynamic SQL~~真香~~使用](doc/db/mybatis-dsl.md)
-
+  * [使用Kotlin替换lombok](doc/kotlin/love-kotlin.md)
 
 * 作者的文档
   * [更新日志](CHANGELOG.md)

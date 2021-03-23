@@ -108,6 +108,14 @@
 </generatorConfiguration>
 ```
 
+在`resources/generator.properties`中添加
+```properties
+spring.datasource.url=jdbc:mysql://localhost:3306/litemall?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true&verifyServerCertificate=false&useSSL=false
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.datasource.username=litemall
+spring.datasource.password=litemall123456
+```
+
 ## Generate
 
 点击`mybatis-generator:generate`生成`mapper`
