@@ -7,6 +7,7 @@
   * [使用Kotlin替换lombok](doc/kotlin/love-kotlin.md)
   * [`@Component`, `@Repository`, `@Service`的区别](doc/component-service.md)
   * [使用Session和Cookie](doc/http/http_session_cookies.md)
+  * [侧滑布局](doc/vue/vue-drawer-layout.md)
 * 作者的文档
   * [更新日志](CHANGELOG.md)
   * [贡献指南](CONTRIBUTE.md)
